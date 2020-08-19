@@ -1,0 +1,13 @@
+{
+    "name": "krypt0nn/is",
+    "description": "Simple script that add only one function: is",
+    "type": "library",
+    "license": "gpl-3.0",
+    "authors": [
+        {
+            "name": "Podvirnyy Nikita",
+            "email": "suimin.tu.mu.ga.mi@gmail.com"
+        }
+    ],
+    "require": {}
+}
