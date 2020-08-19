@@ -9,5 +9,6 @@
             "email": "suimin.tu.mu.ga.mi@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
